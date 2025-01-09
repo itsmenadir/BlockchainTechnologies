@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Model Marketplace</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>AI Model Marketplace</h1>
+    <p id="account">Connected Account: Not Connected</p>
+  </header>
+
+  <main>
+    <section id="listModel">
+      <h2>List a New Model</h2>
+      <form id="listModelForm">
+        <input type="text" id="modelName" placeholder="Model Name" required>
+        <textarea id="modelDescription" placeholder="Model Description" required></textarea>
+        <input type="number" id="modelPrice" placeholder="Price (Wei)" required>
+        <button type="submit">List Model</button>
+      </form>
+    </section>
+
+    <section id="models">
+      <h2>Available Models</h2>
+      <div id="modelList">Loading models...</div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+  <script src="/build/contracts/AIModelMarketplace.json"></script>
+  <script src="app.js"></script>
+</body>
+</html>
