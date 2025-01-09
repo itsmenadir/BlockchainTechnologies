@@ -17,10 +17,9 @@ A decentralized application for publishing, purchasing, and evaluating AI models
 
 ## Interface example
 ![alt text](<Изображение WhatsApp 2025-01-09 в 18.36.13_27089e3c.jpg>)
-https://imgur.com/a/k5NvtIx
-https://imgur.com/a/vjXLBlz
-https://imgur.com/a/4Wxppc5
-https://imgur.com/a/hQ4FM2j
+![alt text](<Изображение WhatsApp 2025-01-09 в 18.36.31_6c5cd949.jpg>)
+![alt text](<Изображение WhatsApp 2025-01-09 в 18.37.22_4ac66c88.jpg>)
+![alt text](<Изображение WhatsApp 2025-01-09 в 18.37.40_1f3a0fb6.jpg>)
 
 ## Лицензия
 [MIT License](LICENSE)  
