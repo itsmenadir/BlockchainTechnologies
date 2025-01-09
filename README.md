@@ -16,6 +16,7 @@ A decentralized application for publishing, purchasing, and evaluating AI models
 3. Open the `index.html ` in the browser.
 
 ## Interface example
+![alt text](<Изображение WhatsApp 2025-01-09 в 18.36.13_27089e3c.jpg>)
 https://imgur.com/a/k5NvtIx
 https://imgur.com/a/vjXLBlz
 https://imgur.com/a/4Wxppc5
